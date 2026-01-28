@@ -289,7 +289,7 @@ npm start
 
 ## 👨‍💻 Author
 
-**Debanjan Mondal**
+**Sumit kumar**
 B.Tech Final Year
 Full-Stack & ML Enthusiast
 
